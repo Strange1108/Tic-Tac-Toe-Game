@@ -1,3 +1,5 @@
+![image](https://github.com/Strange1108/Tic-Tac-Toe-Game/assets/137171724/0fb271ab-0c66-4fbb-b287-b0c3309220a4)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
